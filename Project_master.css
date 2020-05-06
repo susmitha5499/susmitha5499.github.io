@@ -1,0 +1,31 @@
+h1{
+  font-family: 'Monoton', cursive;
+  text-align: center;
+  font-style: normal;
+}
+table{
+  margin: auto;
+}
+td{
+  border: 6px solid white;
+  margin: auto;
+  padding: 100px;
+  height: 200px;
+
+}
+#item_1{
+  background-color: #CEB8D3;
+}
+#item_2{
+ background-color: #514446;
+}
+
+#item_3{
+  background-color: #58A4B0;
+}
+#item_4{
+  background-color:#D3CECD;
+}
+#item_5{
+  background-color: #E06355
+}
